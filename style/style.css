@@ -1,7 +1,15 @@
-/* Menu selection */
+/* Menu*/
 .navbar-nav {
     width: 100%;
 }
+/* Trang login/register */
 .card-bg {
     background-color: #426B1F !important;
+}
+/* Trang sản phẩm */
+.product-card-bg {
+    background-color: #FAFAF5;
+}
+.add-cart-btn {
+    background-color: #FFAD32 !important;
 }
