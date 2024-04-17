@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "category": "Electronics",
+      "name": "Smartphone",
+      "price": 599.99,
+      "description": "A powerful smartphone with advanced features and high-quality camera.",
+      "src": "./assets/product1.jpg"
+    },
+    {
+      "category": "Clothing",
+      "name": "Men's Jacket",
+      "price": 89.99,
+      "description": "A stylish and durable jacket for men, perfect for all seasons.",
+      "src": "./assets/product1.jpg"
+    },
+    {
+      "category": "Home & Kitchen",
+      "name": "Coffee Maker",
+      "price": 49.99,
+      "description": "An easy-to-use coffee maker that brews delicious coffee in minutes.",
+      "src": "./assets/product1.jpg"
+    },
+    {
+      "category": "Beauty",
+      "name": "Anti-Aging Serum",
+      "price": 29.99,
+      "description": "A rejuvenating serum enriched with natural ingredients to combat aging signs.",
+      "src": "./assets/product1.jpg"
+    },
+    {
+      "category": "Books",
+      "name": "Fantasy Novel",
+      "price": 15.99,
+      "description": "An epic fantasy novel filled with adventure, magic, and intrigue.",
+      "src": "./assets/product1.jpg"
+    },
+    {
+      "category": "Sports & Outdoors",
+      "name": "Yoga Mat",
+      "price": 19.99,
+      "description": "A high-quality yoga mat with excellent grip, perfect for yoga enthusiasts.",
+      "src": "./assets/product1.jpg"
+    }
+  ]
+}
