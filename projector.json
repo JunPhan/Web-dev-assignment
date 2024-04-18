@@ -1,116 +1,116 @@
 {
     "projectors": [
       {
-        "category": "Máy in",
-        "name": "Máy in laser đen trắng Canon LBP 243DW (In đảo mặt| A4| A5| USB| LAN| WIFI)",
-        "price": "9.100.000",
-        "description": " 36 trang/phút (A4), khổ giấy A4/A5, độ phân giải 600 x 600dpi, kết nối USB, mạng LAN, WiFi.",
-        "src": "./assets/Product01.jpg"
+        "category": "Máy chiếu",
+        "name": "Máy chiếu Panasonic PT-LB386",
+        "price": "15.690.000",
+        "description": "Độ sáng: 3800 Ansi Lumens, Độ tương phản: 20000:1, Độ phân giải: XGA (1024x768), Tuổi thọ đèn: 20.000 giờ.",
+        "src": "./assets/Projector01.jpg"
       },
       {
-        "category": "Máy in",
-        "name": "Máy in Laser đen trắng đa năng Pantum M6505 (A4 | In | Scan | Copy | USB)",
-        "price": "2.550.000",
-        "description": "In, Sao chép, Quét, khổ A4, mực Đen trắng, tốc độ 22ppm, độ phân giải 1200x1200dpi.",
-        "src": "./assets/Product02.jpg"
+        "category": "Máy chiếu",
+        "name": "Máy chiếu Acer H5386BDi Wireless - HD",
+        "price": "14.550.000",
+        "description": "Công nghệ: DLP, DLP 3D ready. Độ sáng: 4500 ANSI Lumens. Độ phân giải: Max - WUXGA + (1920 x 1200 pixels), True HD 720p (1,280 x 720).",
+        "src": "./assets/Projector02.jpg"
       },
       {
-        "category": "Máy in",
-        "name": "Máy in Laser đen trắng Pantum P3012D (A4 | In đảo mặt | USB)",
-        "price": "2.590.000",
-        "description": " In đảo mặt, khổ A4, mực Đen trắng, tốc độ 30ppm, độ phân giải 1200x1200dpi.",
-        "src": "./assets/Product03.jpg"
+        "category": "Máy chiếu",
+        "name": "Máy chiếu Panasonic PT-LB426 ",
+        "price": "18.099.000",
+        "description": "Độ sáng: 4100 Ansi Lumens. Độ tương phản: 20000:1. Độ phân giải: XGA (1024x768). Tuổi thọ đèn: 20.000 giờ.",
+        "src": "./assets/Projector03.jpg"
       },
       {
-        "category": "Máy in",
-        "name": "Máy in Laser đen trắng Pantum P2516 (In, A4, USB)",
-        "price": "1.850.000",
-        "description": "Máy in đen trắng, khổ giấy A4, tốc độ 22ppm, độ phân giải 600x600dpi, bộ nhớ 32MB.",
-        "src": "./assets/Product04.jpg"
+        "category": "Máy chiếu",
+        "name": "Máy chiếu Panasonic PT-LB386",
+        "price": "22.490.000",
+        "description": "Độ sáng: 4100 ANSI Lumens, Độ tương phản: 16000:1, Độ phân giải: XGA (1024x768), Tuổi thọ đèn: 17000 giờ, Cân nặng: 3 Kg.",
+        "src": "./assets/Projector04.jpg"
       },
       {
-        "category": "Máy in",
-        "name": "Máy in phun màu đa năng HP 580 1F3Y2A (A4 | In | Scan | Copy | USB | WIFI)",
-        "price": "4.190.000",
-        "description": "Máy in màu All-in-One, khổ giấy A4, độ phân giải 4800x1200 dpi, kết nối USB 2.0.",
-        "src": "./assets/Product05.jpg"
+        "category": "Máy chiếu",
+        "name": "Máy chiếu EPSON EB-E500 -3300 Ansi",
+        "price": "11.990.000",
+        "description": "Độ phân giải: XGA (1024×768), Độ sáng: 3300 ANSI lm, Độ tương phản: 15000:1, Tỷ lệ Zoom: 1 – 1.35.",
+        "src": "./assets/Projector05.png"
       },
       {
-        "category": "Máy in",
-        "name": "Máy in phun màu đa năng HP 580 1F3Y2A (A4 | In | Scan | Copy | USB | WIFI)",
-        "price": "14.650.000",
-        "description": " In, sao chép, quét. Độ phân giải 1200x1200 dpi. Khổ giấy A3/A4. Tốc độ 24 trang/phút",
-        "src": "./assets/Product06.jpg"
+        "category": "Máy chiếu",
+        "name": "Máy chiếu thông minh Yaber K2s - Full-HD 1080p, Android, wifi, loa JBL",
+        "price": "9.990.000",
+        "description": "Máy chiếu thông minh Yaber-JBL, độ sáng cao, âm thanh Dolby, Android Tivi, điều khiển giọng nói",
+        "src": "./assets/Projector06.jpg"
       },
       {
-        "category": "Máy in",
+        "category": "Máy chiếu",
         "name": "Máy in phun màu đa năng Brother DCP T220 (In, Scan, Copy, A4, USB)",
-        "price": "2.970.000",
-        "description": " Máy in phun màu đa năng (Copy, Scan), khổ giấy tối đa A4, độ phân giải 1200x6000 dpi.",
-        "src": "./assets/Product08.jpg"
+        "price": "9.490.000",
+        "description": "Máy chiếu thông minh Yaber-JBL, độ sáng cao, âm thanh Dolby, Android Tivi, điều khiển giọng nói",
+        "src": "./assets/Projector07.jpg"
       },
       {
-        "category": "Máy in",
-        "name": "Máy in phun màu đa năng Canon G3010 (In, Scan, Copy, A4, USB, WIFI)",
-        "price": "4.690.000",
-        "description": " In phun đa năng A4, độ phân giải cao, kết nối USB 2.0, Wifi, tốc độ in nhanh.",
-        "src": "./assets/Product07.jpg"
+        "category": "Máy chiếu",
+        "name": "Máy chiếu VIEWSONIC PA503SB (Công Nghệ DLP)- 3800ANSI",
+        "price": "9.490.000",
+        "description": "Độ sáng 3800 ANSI lumen, độ tương phản 22 000:1, độ phân giải SVGA (800x600), tuổi thọ đèn từ 5.000 - 15.000 giờ, cân nặng 2.2 Kg.",
+        "src": "./assets/Projector08.jpg"
       },
       {
-        "category": "Máy in",
-        "name": "Máy in Laser màu đa năng HP 179fnw 4ZB97A (In, Scan ADF 1 mặt, Copy, Fax, A4, USB, LAN, WIFI)",
-        "price": "8.990.000",
-        "description": " Máy in Laser màu đa năng (Print/Copy/Scan/Fax). Khổ giấy: A4, A5. Độ phân giải: 600x600 dpi.",
-        "src": "./assets/Product09.jpg"
+        "category": "Máy chiếu",
+        "name": "Máy chiếu ViewSonic LS740HD",
+        "price": "8.290.000",
+        "description": "Công nghệ: DLP 0.65”, Độ phân giải: Full HD (1920 x 1080), Độ sáng: 5.000 ANSI lumens, Độ tương phản: 3.000.000:1.",
+        "src": "./assets/Projector09.jpg"
       },
       {
-        "category": "Máy in",
-        "name": "Máy in Laser màu HP 150nw 4ZB95A (In, A4, USB, LAN, WIFI)",
+        "category": "Máy chiếu",
+        "name": "Máy chiếu Viewsonic PS600W",
+        "price": "8.190.000",
+        "description": "Công nghệ DLP, công nghệ xử lý màu sắc SuperColor™, độ sáng 3.500 lumens, độ phân giải WXGA (1280×800), độ tương phản 22.000:1.",
+        "src": "./assets/Projector10.jpg"
+      },
+      {
+        "category": "Máy chiếu",
+        "name": "Máy chiếu Yaber V7 Pro Full-HD Android, Wifi",
+        "price": "7.290.000",
+        "description": "Máy chiếu Full-HD Android 2023, độ sáng cao, tích hợp Android OS, trình chiếu không dây, Keystone điện tử, kết nối Bluetooth.",
+        "src": "./assets/Projector11.jpg"
+      },
+      {
+        "category": "Máy chiếu",
+        "name": "Máy chiếu Led di động Viewsonic M1 mini Plus(wifi, android, pin 4h, loa JBL)",
+        "price": "6.790.000",
+        "description": "Chân đế linh hoạt, tấm nắp thay đổi, loa JBL, pin tích hợp, khởi động nhanh, kết nối Wi-Fi/Bluetooth.",
+        "src": "./assets/Projector12.jpg"
+      },
+      {
+        "category": "Máy chiếu",
+        "name": "Máy chiếu Yaber V6 Pro Full-HD 1080p, Android 9, wifi",
         "price": "5.990.000",
-        "description": "Máy in Laser màu đơn năng. Khổ giấy: A4, A5. Độ phân giải: 600x600 dpi. Tốc độ in đen trắng: 18 trang/phút.",
-        "src": "./assets/Product10.jpg"
+        "description": "Bản nâng cấp Android, Full-HD, Basic Smart Engine II, chỉnh vuông hình, tuổi thọ bóng đèn lên đến 100.000 giờ.",
+        "src": "./assets/Projector13.png"
       },
       {
-        "category": "Máy in",
-        "name": "Máy in Laser đen trắng HP 107w 4ZB78A (In, A4, USB, WIFI)",
-        "price": "3.090.000",
-        "description": " Khổ giấy tối đa: A4, A5. Kết nối: USB2.0, Wi-Fi802.11b/g/n tích hợp sẵn. Tốc độ in đen trắng: Lên đến 20 trang/phút.",
-        "src": "./assets/Product11.jpg"
+        "category": "Máy chiếu",
+        "name": "Máy chiếu Yaber V10 Full-HD Android, Wifi",
+        "price": "5.190.000",
+        "description": "Độ phân giải Full-HD 1080p, Android OS, trình chiếu không dây, Bluetooth 5.1, chỉnh sửa Keystone, tuổi thọ bóng đèn 100.000 giờ.",
+        "src": "./assets/Projector14.jpg"
       },
       {
-        "category": "Máy in",
-        "name": "Máy in Laser đen trắng HP M211d 9YF82A (In đảo mặt, A4, USB)",
-        "price": "2.890.000",
-        "description": "In laser đen trắng. Khổ giấy: A4, A5, A6, B5 (JIS). Tốc độ: 29 trang/phút. Độ phân giải: 600 x 600 dpi.",
-        "src": "./assets/Product12.jpg"
+        "category": "Máy chiếu",
+        "name": "Máy chiếu Vankyo Leisure 495W Full-HD 1080p Wifi",
+        "price": "4.490.000",
+        "description": "Độ phân giải gốc Full-HD, tương thích 4K, độ sáng 6500 lumens, độ tương phản 10.000:1, kích thước chiếu 46-250 inch, chỉnh vuông hình Keystone, tuổi thọ bóng chiếu 50.000 giờ.",
+        "src": "./assets/Projector15.jpg"
       },
       {
-        "category": "Máy in",
-        "name": "Máy in Laser đen trắng đa năng Brother MFC-B7810DW (A4 | In đảo mặt | Scan ADF 1 mặt| Copy | USB | LAN | WIFI)",
-        "price": "6.680.000",
-        "description": "Máy in laser đa chức năng. Tốc độ in 34-36 trang/phút. Độ phân giải 1,200 x 1,200 dpi.",
-        "src": "./assets/Product13.jpg"
-      },
-      {
-        "category": "Máy in",
-        "name": "Máy in Laser đen trắng đa năng Brother DCP-B7640DW (A4 | In đảo mặt | Scan ADF 1 mặt | Copy | USB | LAN | WIFI)",
-        "price": "5.880.000",
-        "description": " Sử dụng mực TNB027, máy in laser đa chức năng: in, photocopy, scan màu. Tốc độ in 34-36 trang/phút.",
-        "src": "./assets/Product14.jpg"
-      },
-      {
-        "category": "Máy in",
-        "name": "Máy in Laser đen trắng đa năng Brother DCP-B7620DW (A4 | In đảo mặt | Scan | Copy| USB | LAN | WIFI)",
-        "price": "5.630.000",
-        "description": " Mực TNB027, máy in laser đa chức năng: in, photocopy, scan màu. Tốc độ in 34-36 trang/phút.",
-        "src": "./assets/Product15.jpg"
-      },
-      {
-        "category": "Máy in",
-        "name": "Máy in Laser đen trắng Canon LBP 2900 (In, A4, A5, USB, Driver) ",
-        "price": "3.990.000",
-        "description": " Canon LBP 2900 là máy in laser đen trắng hỗ trợ khổ giấy A4, B5, A5, và nhiều khổ giấy khác.",
-        "src": "./assets/Product16.jpg"
+        "category": "Máy chiếu",
+        "name": "Máy chiếu Mini thông minh Yaber L1, Android 9, wifi",
+        "price": "2.790.000",
+        "description": "Máy chiếu thông minh HD720P, tích hợp Android, âm thanh Hi-Fi, hỗ trợ Full-HD và 4K.",
+        "src": "./assets/Projector16.jpg"
       }
     ]
   }
