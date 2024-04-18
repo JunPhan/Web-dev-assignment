@@ -22,10 +22,8 @@ function renderProducts(products) {
                     </div>
                     <div class="card-body product-card-bg">
                         <h5 class="card-title mb-3">${product.name}</h5>
-                        <p>Category: ${product.category}</p>
-                        <h6 class="mb-3">Price: $${product.price.toFixed(
-                          2
-                        )}</h6>
+                        <p>Danh mục: ${product.category}</p>
+                        <h6 class="mb-3 text-danger">Giá: ${product.price} VNĐ</h6>
                         <p>${product.description}</p>
                         
                     </div>
