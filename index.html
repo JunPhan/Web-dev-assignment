@@ -15,7 +15,7 @@
     <header>
       <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
         <div class="container">
-          <a class="navbar-brand fw-bold text-success" href="index.html">
+          <a class="navbar-brand fw-bold text-success" href="./index.html">
             <img
               src="./assets/logo.png"
               alt=""
@@ -39,15 +39,25 @@
           <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="index.html"
+                <a class="nav-link active" aria-current="page" href="./index.html"
                   >Trang chủ</a
                 >
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html">Giới thiệu</a>
+                <a class="nav-link" href="./about.html">Giới thiệu</a>
               </li>
-              <li class="nav-item"> 
-                <a class="nav-link" href="termService.html">Điều khoản</a>
+              <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+                      data-bs-toggle="dropdown" aria-expanded="false">
+                      Điều khoản
+                  </a>
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                      <li><a class="dropdown-item" href="./termService.html">Chính sách bảo hành</a></li>
+                      <li><a class="dropdown-item" href="./termShipping.html">Chính sách vận chuyển</a></li>
+                      <!-- <li>
+                          <a class="dropdown-item" href="#">Something else here</a>
+                      </li> -->
+                  </ul>
               </li>
               <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
@@ -55,8 +65,8 @@
                       Sản phẩm
                   </a>
                   <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                      <li><a class="dropdown-item" href="products.html">Máy in</a></li>
-                      <li><a class="dropdown-item" href="#">Máy chiếu</a></li>
+                      <li><a class="dropdown-item" href="./products.html">Máy in</a></li>
+                      <li><a class="dropdown-item" href="./projector.html">Máy chiếu</a></li>
                       <!-- <li>
                           <a class="dropdown-item" href="#">Something else here</a>
                       </li> -->
@@ -64,7 +74,7 @@
               </li>
             </ul>
             <form class="container-fluid d-flex justify-content-end">
-              <a class="nav-link mt-1" href="myCart.html"
+              <a class="nav-link mt-1" href="./myCart.html"
                 ><button
                   class="btn btn-sm btn-outline-secondary me-1"
                   type="button"
@@ -72,7 +82,7 @@
                   Giỏ hàng
                 </button></a
               >
-              <a class="nav-link" href="login.html"
+              <a class="nav-link" href="./login.html"
                 ><button class="btn btn-outline-success me-2" type="button">
                   Đăng nhập
                 </button></a
@@ -133,7 +143,7 @@
                   Deal siêu hấp dẫn dành cho thành viên CNPrint.
                 </p>
                 <p>
-                  <a class="btn btn-lg btn-success" href="register.html">Đăng kí ngay</a>
+                  <a class="btn btn-lg btn-success" href="./register.html">Đăng kí ngay</a>
                 </p>
               </div>
             </div>
@@ -412,7 +422,7 @@
                     <h5 class="text-uppercase mb-4 font-weight-bold text-white">Sản phẩm</h5>
                     <p class="text-md-start"><a href="./products.html" class="text-white font-weight-bold" style="text-decoration: none;"><u>Máy in</u></a>
                     </p>
-                    <p class="text-md-start"><a href="#" class="text-white font-weight-bold" style="text-decoration: none;"><u>Máy Chiếu</u></a>
+                    <p class="text-md-start"><a href="./projector.html" class="text-white font-weight-bold" style="text-decoration: none;"><u>Máy Chiếu</u></a>
                     </p>
                     <!-- <p class="text-md-start"><a href="#" class="text-white font-weight-bold" style="text-decoration: none;">Thiết bị khác</a>
                     </p> -->
@@ -420,10 +430,9 @@
                 <div class="col-md-3 col-lg-3 col-xl-2 mx-auto mt-2">
                     <h5 class="text-uppercase mb-4 font-weight-bold text-white">Thông tin</h5>
                     <p class="text-md-start"><a href="#" class="text-white" style="text-decoration: none;"><u>Tài khoản của bạn</u></a></p>
-                    <p class="text-md-start"><a href="about.html" class="text-white" style="text-decoration: none;"><u>Giới thiệu</u></a></p>
-                    <p class="text-md-start"><a href="termService.html" class="text-white" style="text-decoration: none;"><u>Điều khoản</u></a></p>
-                    <p class="text-md-start"><a href="#" class="text-white" style="text-decoration: none;"><u>Chính sách vận chuyển</u></a></p>
-                    <p class="text-md-start"><a href="#" class="text-white" style="text-decoration: none;"><u>Chính sách bảo hành</u></a></p>
+                    <p class="text-md-start"><a href="./about.html" class="text-white" style="text-decoration: none;"><u>Giới thiệu</u></a></p>
+                    <p class="text-md-start"><a href="./termService.html" class="text-white" style="text-decoration: none;"><u>Chính sách bảo hành</u></a></p>
+                    <p class="text-md-start"><a href="./termShipping.html" class="text-white" style="text-decoration: none;"><u>Chính sách vận chuyển</u></a></p>
                 </div>
                 <div class="col-md-4 col-lg-3 col-xl-4 mx-auto mt-2">
                     <h5 class="text-uppercase mb-4 font-weight-bold text-white">Liên hệ</h5>
