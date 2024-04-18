@@ -49,8 +49,18 @@
               <li class="nav-item"> 
                 <a class="nav-link" href="termService.html">Điều khoản</a>
               </li>
-              <li class="nav-item"> 
-                <a class="nav-link" href="products.html">Sản phẩm</a>
+              <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+                      data-bs-toggle="dropdown" aria-expanded="false">
+                      Sản phẩm
+                  </a>
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                      <li><a class="dropdown-item" href="products.html">Máy in</a></li>
+                      <li><a class="dropdown-item" href="#">Máy chiếu</a></li>
+                      <!-- <li>
+                          <a class="dropdown-item" href="#">Something else here</a>
+                      </li> -->
+                  </ul>
               </li>
             </ul>
             <form class="container-fluid d-flex justify-content-end">
@@ -390,4 +400,44 @@
     <script src="./jquery/jquery-3.7.1.min.js"></script>
     <script src="./bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js"></script>
   </body>
+    <footer class="bg-success text-white pt-5 pb-4">
+        <div class="container text-center text-md-start">
+            <div class="row  ">
+                <div class="col-md-2 col-lg-3 col-xl-4 mx-auto mt-2">
+                    <h5 class="text-uppercase mb-4 font-weight-bold text-white">CNPRINT</h5>
+                    <p class="text-md-start">
+                        CNPRINT là một công ty chuyên cung cấp máy in ấn và các thiết bị văn phòng chất lượng cao. Với kinh nghiệm và sự chuyên nghiệp, chúng tôi cam kết mang đến cho khách hàng những sản phẩm và công nghệ hiện đại nhất. </p>
+                </div>
+                <div class="col-md-4 col-lg-3 col-xl-2 mx-auto mt-2 ">
+                    <h5 class="text-uppercase mb-4 font-weight-bold text-white">Sản phẩm</h5>
+                    <p class="text-md-start"><a href="./products.html" class="text-white font-weight-bold" style="text-decoration: none;">Máy in</a>
+                    </p>
+                    <p class="text-md-start"><a href="#" class="text-white font-weight-bold" style="text-decoration: none;">Máy Chiếu</a>
+                    </p>
+                    <!-- <p class="text-md-start"><a href="#" class="text-white font-weight-bold" style="text-decoration: none;">Thiết bị khác</a>
+                    </p> -->
+                </div>
+                <div class="col-md-3 col-lg-3 col-xl-2 mx-auto mt-2">
+                    <h5 class="text-uppercase mb-4 font-weight-bold text-white">Thông tin</h5>
+                    <p class="text-md-start"><a href="#" class="text-white" style="text-decoration: none;">Tài khoản của bạn</a></p>
+                    <p class="text-md-start"><a href="#" class="text-white" style="text-decoration: none;">Giới thiệu</a></p>
+                    <p class="text-md-start"><a href="#" class="text-white" style="text-decoration: none;">Điều khoản</a></p>
+                    <p class="text-md-start"><a href="#" class="text-white" style="text-decoration: none;">Chính sách vận chuyển</a></p>
+                    <p class="text-md-start"><a href="#" class="text-white" style="text-decoration: none;">Chính sách bảo hành</a></p>
+                </div>
+                <div class="col-md-4 col-lg-3 col-xl-4 mx-auto mt-2">
+                    <h5 class="text-uppercase mb-4 font-weight-bold text-white">Liên hệ</h5>
+                    <p class="text-md-start">
+                        Địa chỉ: 220 Nguyễn Thái Sơn, P4, Gò Vấp, HCM
+                    </p>
+                    <p class="text-md-start">
+                        Điện thoại: 090 927 86 59
+                    </p>
+                    <p class="text-md-start">
+                        Email: cnprint@gmail.com
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
 </html>
