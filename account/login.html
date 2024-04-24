@@ -8,6 +8,8 @@
       rel="stylesheet"
       href="/bootstrap-5.0.2-dist/css/bootstrap.min.css"
     />
+    <script src="../jquery/jquery-3.7.1.min.js"></script>
+    <script src="../js/login.js"></script>
     <title>PhotoCN4</title>
   </head>
   <body>
@@ -43,10 +45,11 @@
                         >
                         <input
                           type="email"
-                          id="form2Example11"
+                          id="Email"
                           class="form-control"
                           placeholder="Phone number or email address"
                         />
+                        <p style="color: yellow;" id="Emailerror"></p>
                       </div>
 
                       <div data-mdb-input-init class="form-outline mb-3">
@@ -55,10 +58,11 @@
                         >
                         <input
                           type="password"
-                          id="form2Example22"
+                          id="Password"
                           class="form-control"
                           placeholder="Password"
                         />
+                        <p style="color: yellow;" id="PassError"></p>
                       </div>
 
                       <div class="text-center pt-1 mb-3 pb-1">
