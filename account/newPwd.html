@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="/style/style.css" type="text/css" />
     <link rel="stylesheet" href="/bootstrap-5.0.2-dist/css/bootstrap.min.css" />
+    <script src="../jquery/jquery-3.7.1.min.js"></script>
+    <script src="../js/newPwd.js"></script>
     <title>PhotoCN4</title>
 </head>
 <body>
@@ -29,21 +31,23 @@
     
                                     <form>
                                         <div data-mdb-input-init class="form-outline mb-4">
-                                            <label class="form-label" for="form2Example11">Mật khẩu mới</label>
-                                            <input type="password" id="form2Example22" class="form-control"
+                                            <label class="form-label" for="NewPass">Mật khẩu mới</label>
+                                            <input type="password" id="NewPass" class="form-control"
                                                 placeholder="New password" />
+                                                <span style="color: yellow;" id="PassError"></span>    
                                         </div>
     
                                         <div data-mdb-input-init class="form-outline mb-3">
-                                            <label class="form-label" for="form2Example22">Nhập lại mật khẩu</label> 
-                                            <input type="password" id="form2Example22" class="form-control"
-                                                placeholder="New password again" />
+                                            <label class="form-label" for="RePassWord">Nhập lại mật khẩu</label> 
+                                            <input type="password" id="RePassWord" class="form-control"
+                                                placeholder="Comfirm password" />
+                                                <span style="color: yellow;" id="PassError-1"></span>  
                                         </div>
     
                                         <div class="text-center pt-1 mb-3 pb-1">
                                             <button data-mdb-button-init data-mdb-ripple-init
                                                 class="btn btn-outline-light btn-block fa-lg gradient-custom-2 mb-3 fw-bold"
-                                                type="button" style="width: 70%;">Xác nhận</button>
+                                                type="button" style="width: 70%;"><a href="../account/login.html" class="text-white text-decoration-none">Xác nhận</a></button>
                                         </div>
     
                                     </form>

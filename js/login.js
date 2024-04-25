@@ -14,7 +14,7 @@ $(document).ready(function(){
         // alert('email = ${JSON.stringify(Email)}')
         
         if(!isEmail(email)){
-            $("#Emailerror").html("Nhập email sai hãy nhập lại");
+            $("#Emailerror").html("* Nhập email sai hãy nhập lại");
         }else{
             $("#Emailerror").html("")
         }
@@ -31,30 +31,34 @@ $(document).ready(function(){
         tbEmail.html("");
         return true;
     }
-    txtEmail.blur(KiemTraEmail)
+    txtEmail.blur(KiemTraEmail);
 
     //Kiem tra mat khau
+
+    
 
     $("#Password").change(function(){
         var password = $(this).val().trim();
         // alert('password = ${JSON.stringify(password)}')
         if(validatePassword(password)){
-            $("#PassError").html("Nhập mật khẩu trên 8 ký tự");
+            $("#PassError").html("* Nhập mật khẩu trên 8 ký tự");
+            return false;
         }else{
-            $("#PassError").html("")
+            $("#PassError").html("");
+            return true;
         }
     });
 
-    var txtPass = $("#Password");
-    var tbPass = $("#PassError");
+    // var txtPass = $("#Password");
+    // var tbPass = $("#PassError");
 
-    function KiemTraPass(){
-        if(txtPass.val() == ""){
-            tbPass.html("* Không được để trống");
-            return false;
-        }
-        tbPass.html("");
-        return true;
-    }
-    txtPass.blur(KiemTraPass);
+    // function KiemTraPass(){
+    //     if(txtPass.val() == ""){
+    //         tbPass.html("* Không được để trống");
+    //         return false;
+    //     }
+    //     tbPass.html("");
+    //     return true;
+    // }
+    // txtPass.blur(KiemTraPass);
 });

@@ -89,17 +89,17 @@ $(document).ready(function(){
         }
     });
 
-    var txtPass = $("#txtPass");
-    var tbPass = $("#tbPass");
+    // var txtPass = $("#txtPass");
+    // var tbPass = $("#tbPass");
 
-    function KiemTraPass(){
-        if(txtPass.val() == ""){
-            tbPass.html("* Không được để trống");
-            return false;
-        }
-        tbPass.html("");
-        return true;
-    }
-    txtPass.blur(KiemTraPass);
+    // function KiemTraPass(){
+    //     if(txtPass.val() == ""){
+    //         tbPass.html("* Không được để trống");
+    //         return false;
+    //     }
+    //     tbPass.html("");
+    //     return true;
+    // }
+    // txtPass.blur(KiemTraPass);
 
 });
