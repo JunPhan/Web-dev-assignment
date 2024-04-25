@@ -8,7 +8,8 @@
       rel="stylesheet"
       href="/bootstrap-5.0.2-dist/css/bootstrap.min.css"
     />
-    
+    <script src="../jquery/jquery-3.7.1.min.js"></script>
+    <script src="../js/register.js"></script>
     <title>PhotoCN4</title>
   </head>
   <body>
@@ -40,68 +41,72 @@
                       <div class="row">
                         <div class="col-md-6">
                           <div data-mdb-input-init class="form-outline mb-4">
-                            <label class="form-label" for="form2Example11"
+                            <label class="form-label" for="txtHo"
                               >Họ</label
                             >
                             <input
                               type="text"
-                              id="form2Example11"
+                              id="txtHo"
                               class="form-control"
                               placeholder="Họ của bạn"
                             />
+                            <span style="color: yellow;" id="tbHo"></span>
                           </div>
                         </div>
                         <div class="col-md-6">
                           <div data-mdb-input-init class="form-outline mb-4">
-                            <label class="form-label" for="form2Example12"
+                            <label class="form-label" for="txtTen"
                               >Tên</label
                             >
                             <input
                               type="text"
-                              id="form2Example12"
+                              id="txtTen"
                               class="form-control"
                               placeholder="Tên của bạn"
                             />
+                            <span style="color: yellow;" id="tbTen"></span>
                           </div>
                         </div>
                       </div>
 
                       <div data-mdb-input-init class="form-outline mb-4">
-                        <label class="form-label" for="form2Example13"
+                        <label class="form-label" for="txtEmail"
                           >Email</label
                         >
                         <input
                           type="email"
-                          id="form2Example13"
+                          id="txtEmail"
                           class="form-control"
                           placeholder="Nhập email của bạn"
                         />
+                        <span style="color: yellow;" id="tbEmail"></span>
                       </div>
 
                       <div data-mdb-input-init class="form-outline mb-3">
-                        <label class="form-label" for="form2Example14"
+                        <label class="form-label" for="txtNameAccount"
                           >Tên Tài Khoản</label
                         >
                         <input
                           type="text"
-                          id="form2Example14"
+                          id="txtNameAccount"
                           class="form-control"
                           placeholder="Nhập tên tài khoản"
                         />
+                        <span style="color: yellow;" id="tbNameAccount"></span>
                       </div>
 
                       <div data-mdb-input-init class="form-outline mb-3">
                         <label class="form-label" for="form2Example22"
-                          >Mật khẩu</label
-                        >
+                          >Mật khẩu</label>
                         <input
                           type="password"
-                          id="form2Example22"
+                          id="txtPass"
                           class="form-control"
                           placeholder="Nhập mật khẩu"
                         />
+                        <span style="color: yellow;" id="tbPass"></span>
                       </div>
-
+                      
                       <div class="text-center pt-1 mb-3 pb-1">
                         <button
                           data-mdb-button-init
@@ -124,7 +129,8 @@
                           data-mdb-ripple-init
                           class="btn btn-outline-light fw-bold"
                         >
-                          <a href="/account/login.html">Đăng nhập</a>
+                          <a href="/account/login.html" style="color: white;
+                          text-decoration: none;">Đăng nhập</a>
                         </button>
                       </div>
                     </form>
