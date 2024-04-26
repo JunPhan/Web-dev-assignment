@@ -28,7 +28,7 @@ function renderProjectors(projectors) {
                         
                     </div>
                     <div class="d-flex justify-content-center projector-card-bg">
-                            <button type="button" class="btn add-cart-btn mb-3 rounded-pill fw-bold text-white">Thêm vào giỏ hàng</button>
+                    <a href="/Product detail/Product01.html"><button type="button" class="btn add-cart-btn mb-3 rounded-pill fw-bold text-white " >Thêm vào giỏ hàng</button></a>
                     </div>
 
                     </div>
