@@ -25,7 +25,7 @@ function renderProjectors(projectors) {
                         <p>Danh mục: ${projector.category}</p>
                         <h6 class="mb-3 text-danger">Giá: ${projector.price} VNĐ</h6>
                         <p>${projector.description}</p>
-                        
+                        <a href="${projector.productDetailUrl}" class="text-primary">Chi tiết sản phẩm</a>
                     </div>
                     <div class="d-flex justify-content-center projector-card-bg">
                     <a href="/Product detail/Product01.html"><button type="button" class="btn add-cart-btn mb-3 rounded-pill fw-bold text-white " >Thêm vào giỏ hàng</button></a>
