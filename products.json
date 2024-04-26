@@ -69,56 +69,64 @@
       "name": "Máy in Laser màu đa năng HP 179fnw 4ZB97A (In, Scan ADF 1 mặt, Copy, Fax, A4, USB, LAN, WIFI)",
       "price": "8.990.000",
       "description": " Máy in Laser màu đa năng (Print/Copy/Scan/Fax). Khổ giấy: A4, A5. Độ phân giải: 600x600 dpi.",
-      "src": "./assets/Product09.jpg"
+      "src": "./assets/Product09.jpg",
+      "productDetailUrl":"/Product detail/Product09.html"
     },
     {
       "category": "Máy in",
       "name": "Máy in Laser màu HP 150nw 4ZB95A (In, A4, USB, LAN, WIFI)",
       "price": "5.990.000",
       "description": "Máy in Laser màu đơn năng. Khổ giấy: A4, A5. Độ phân giải: 600x600 dpi. Tốc độ in đen trắng: 18 trang/phút.",
-      "src": "./assets/Product10.jpg"
+      "src": "./assets/Product10.jpg",
+      "productDetailUrl":"/Product detail/Product10.html"
     },
     {
       "category": "Máy in",
       "name": "Máy in Laser đen trắng HP 107w 4ZB78A (In, A4, USB, WIFI)",
       "price": "3.090.000",
       "description": " Khổ giấy tối đa: A4, A5. Kết nối: USB2.0, Wi-Fi802.11b/g/n tích hợp sẵn. Tốc độ in đen trắng: Lên đến 20 trang/phút.",
-      "src": "./assets/Product11.jpg"
+      "src": "./assets/Product11.jpg",
+      "productDetailUrl":"/Product detail/Product11.html"
     },
     {
       "category": "Máy in",
       "name": "Máy in Laser đen trắng HP M211d 9YF82A (In đảo mặt, A4, USB)",
       "price": "2.890.000",
       "description": "In laser đen trắng. Khổ giấy: A4, A5, A6, B5 (JIS). Tốc độ: 29 trang/phút. Độ phân giải: 600 x 600 dpi.",
-      "src": "./assets/Product12.jpg"
+      "src": "./assets/Product12.jpg",
+      "productDetailUrl":"/Product detail/Product12.html"
     },
     {
       "category": "Máy in",
       "name": "Máy in Laser đen trắng đa năng Brother MFC-B7810DW (A4 | In đảo mặt | Scan ADF 1 mặt| Copy | USB | LAN | WIFI)",
       "price": "6.680.000",
       "description": "Máy in laser đa chức năng. Tốc độ in 34-36 trang/phút. Độ phân giải 1,200 x 1,200 dpi.",
-      "src": "./assets/Product13.jpg"
+      "src": "./assets/Product13.jpg",
+      "productDetailUrl":"/Product detail/Product13.html"
     },
     {
       "category": "Máy in",
       "name": "Máy in Laser đen trắng đa năng Brother DCP-B7640DW (A4 | In đảo mặt | Scan ADF 1 mặt | Copy | USB | LAN | WIFI)",
       "price": "5.880.000",
       "description": " Sử dụng mực TNB027, máy in laser đa chức năng: in, photocopy, scan màu. Tốc độ in 34-36 trang/phút.",
-      "src": "./assets/Product14.jpg"
+      "src": "./assets/Product14.jpg",
+      "productDetailUrl":"/Product detail/Product14.html"
     },
     {
       "category": "Máy in",
       "name": "Máy in Laser đen trắng đa năng Brother DCP-B7620DW (A4 | In đảo mặt | Scan | Copy| USB | LAN | WIFI)",
       "price": "5.630.000",
       "description": " Mực TNB027, máy in laser đa chức năng: in, photocopy, scan màu. Tốc độ in 34-36 trang/phút.",
-      "src": "./assets/Product15.jpg"
+      "src": "./assets/Product15.jpg",
+      "productDetailUrl":"/Product detail/Product15.html"
     },
     {
       "category": "Máy in",
       "name": "Máy in Laser đen trắng Canon LBP 2900 (In, A4, A5, USB, Driver) ",
       "price": "3.990.000",
       "description": " Canon LBP 2900 là máy in laser đen trắng hỗ trợ khổ giấy A4, B5, A5, và nhiều khổ giấy khác.",
-      "src": "./assets/Product16.jpg"
+      "src": "./assets/Product16.jpg",
+      "productDetailUrl":"/Product detail/Product16.html"
     }
   ]
 }

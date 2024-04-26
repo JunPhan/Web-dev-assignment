@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/style/style.css" type="text/css" />
+    <link rel="stylesheet" href="/bootstrap-5.0.2-dist/css/bootstrap.min.css" />
+    
+    <title>PhotoCN4</title>
+</head>
+<body>
+    <!-- Navbar -->
+    <header>
+        <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
+            <div class="container">
+                <a class="navbar-brand fw-bold text-success" href="index.html">
+                    <img src="/assets/logo.png" alt="" width="30" height="24" class="d-inline-block align-text-top" />
+                    CNPRINT
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+                    aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="/index.html">Trang chủ</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/about.html">Giới thiệu</a>
+                        </li>
+                        <li class="nav-item"> 
+                            <a class="nav-link" href="/termService.html">Điều khoản</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle active" href="#" id="navbarDropdownMenuLink" role="button"
+                                data-bs-toggle="dropdown" aria-expanded="false">Sản phẩm</a>
+                            <ul class="dropdown-menu" git aria-labelledby="navbarDropdownMenuLink">
+                                <li><a class="dropdown-item" href="/products.html">Máy in</a></li>
+                                <li><a class="dropdown-item" href="/projector.html">Máy chiếu</a></li>
+                                <!-- <li>
+                                    <a class="dropdown-item" href="#">Something else here</a>
+                                </li> -->
+                            </ul>
+                        </li>
+                    </ul>
+                    <form class="container-fluid d-flex justify-content-end">
+                        <a class="nav-link mt-1" href="/myCart.html">
+                            <button class="btn btn-sm btn-outline-secondary me-1" type="button">Giỏ hàng</button>
+                        </a>
+                        <a class="nav-link" href="/account/login.html">
+                            <button class="btn btn-outline-success me-2" type="button">Đăng nhập</button>
+                        </a>
+                    </form>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <!-- list of products -->
+    <section class="mt-5" style="background-color: #eee;">
+        <div class="container py-5">
+            <div class="row">
+                <div class="col">
+                    <h1 class="mt-4 "><strong>Máy in Laser màu HP 150nw 4ZB95A</strong></h1>
+                </div>
+                <div class="row">
+                    <div class="col-6 ">
+                        
+                        <img class="w-100" src="/assets/Product10.jpg" alt="product_img">
+                    </div>
+                    <div class="col-6" >
+                        <h3 class="mt-4 " style="text-align: center;"><strong>Chi tiết sản phẩm</strong></h3>
+                        <table class="table table-bordered" style="margin-top: 30px; font-size: 19px;text-align: center;">
+                            <thead>
+                              <tr>
+                                <th>Tên sản phẩm</th>
+                                <td>Máy in Laser màu HP 150nw 4ZB95A (In, A4, USB, LAN, WIFI)</td>
+                              </tr>
+                            </thead>
+                            <tbody>
+                              <tr>
+                                <th>Danh mục</th>
+                                <td>Máy in</td>
+                              </tr>
+                              <tr>
+                                <th>Giá</th>
+                                <td>5.990.000</td>
+                              </tr>
+                              <tr>
+                                <th>Chi tiết kỹ thuật</th>
+                                <td>Máy in Laser màu đơn năng. Khổ giấy: A4, A5. Độ phân giải: 600x600 dpi. Tốc độ in đen trắng: 18 trang/phút.</td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          <div class="row" style="margin-top: 90px;">
+                            <div class="col-5 ">
+                                <button class="bg-success w-100 text-white " style="height: 50px; font-size: 25px; ">Mua hàng</button>
+                            </div>
+                            <div class="col-1"></div>
+                            <div class="col-5 ">
+                                <button class="bg-success w-100 text-white " style="height: 50px; font-size: 25px; ">Thêm vào giỏ hàng</button>
+                            </div>
+                          </div>
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="row" id="cart-items">
+                <!-- Các sản phẩm trong giỏ hàng sẽ được hiển thị ở đây -->
+            </div>
+        </div>
+    </section>
+    <!-- JS -->
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script> -->
+    <script src="/jquery/jquery-3.7.1.min.js"></script>
+    <script src="/bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js"></script>
+    <footer class="bg-success text-white pt-5 pb-4">
+        <div class="container text-center text-md-start">
+            <div class="row">
+                <div class="col-md-2 col-lg-3 col-xl-4 mx-auto mt-2">
+                    <h5 class="text-uppercase mb-4 font-weight-bold text-white">PHOTOCN4</h5>
+                    <p class="text-md-start">
+                        PhotoCN4 là một công ty chuyên cung cấp dịch vụ in ấn và bán các sản phẩm máy in và máy chiếu chất lượng cao. Với kinh nghiệm và sự chuyên nghiệp, chúng tôi cam kết mang đến cho khách hàng những giải pháp in ấn và công nghệ hiện đại nhất.
+                    </p>
+                </div>
+                <div class="col-md-4 col-lg-3 col-xl-2 mx-auto mt-2">
+                    <h5 class="text-uppercase mb-4 font-weight-bold text-white">Sản phẩm</h5>
+                    <p class="text-md-start"><a href="./products.html" class="text-white font-weight-bold" style="text-decoration: none;">Máy in</a></p>
+                    <p class="text-md-start"><a href="#" class="text-white font-weight-bold" style="text-decoration: none;">Máy Chiếu</a></p>
+                    <p class="text-md-start"><a href="#" class="text-white font-weight-bold" style="text-decoration: none;">Thiết bị khác</a></p>
+                </div>
+                <div class="col-md-3 col-lg-3 col-xl-2 mx-auto mt-2">
+                    <h5 class="text-uppercase mb-4 font-weight-bold text-white">Hữu ích</h5>
+                    <p class="text-md-start"><a href="#" class="text-white" style="text-decoration: none;">Tài khoản của bạn</a></p>
+                    <p class="text-md-start"><a href="#" class="text-white" style="text-decoration: none;">Trở thành người giới thiệu</a></p>
+                    <p class="text-md-start"><a href="#" class="text-white" style="text-decoration: none;">Giá vận chuyển</a></p>
+                    <p class="text-md-start"><a href="#" class="text-white" style="text-decoration: none;">Giới thiệu</a></p>
+                </div>
+                <div class="col-md-4 col-lg-3 col-xl-4 mx-auto mt-2">
+                    <h5 class="text-uppercase mb-4 font-weight-bold text-white">Liên hệ</h5>
+                    <p class="text-md-start">
+                        Địa chỉ: 220 Nguyễn Thái Sơn, P4, Gò Vấp, HCM
+                    </p>
+                    <p class="text-md-start">
+                        Điện thoại: 090 927 86 59
+                    </p>
+                    <p class="text-md-start">
+                        Email: photocopydhcn4@gmail.com
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
