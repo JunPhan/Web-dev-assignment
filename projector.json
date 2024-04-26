@@ -5,112 +5,128 @@
         "name": "Máy chiếu Panasonic PT-LB386",
         "price": "15.690.000",
         "description": "Độ sáng: 3800 Ansi Lumens, Độ tương phản: 20000:1, Độ phân giải: XGA (1024x768), Tuổi thọ đèn: 20.000 giờ.",
-        "src": "./assets/Projector01.jpg"
+        "src": "./assets/Projector01.jpg",
+        "productDetailUrl":"/Product detail/Projector01.html"
       },
       {
         "category": "Máy chiếu",
         "name": "Máy chiếu Acer H5386BDi Wireless - HD",
         "price": "14.550.000",
         "description": "Công nghệ: DLP, DLP 3D ready. Độ sáng: 4500 ANSI Lumens. Độ phân giải: Max - WUXGA + (1920 x 1200 pixels), True HD 720p (1,280 x 720).",
-        "src": "./assets/Projector02.jpg"
+        "src": "./assets/Projector02.jpg",
+        "productDetailUrl":"/Product detail/Projector02.html"
       },
       {
         "category": "Máy chiếu",
         "name": "Máy chiếu Panasonic PT-LB426 ",
         "price": "18.099.000",
         "description": "Độ sáng: 4100 Ansi Lumens. Độ tương phản: 20000:1. Độ phân giải: XGA (1024x768). Tuổi thọ đèn: 20.000 giờ.",
-        "src": "./assets/Projector03.jpg"
+        "src": "./assets/Projector03.jpg",
+        "productDetailUrl":"/Product detail/Projector03.html"
       },
       {
         "category": "Máy chiếu",
         "name": "Máy chiếu Panasonic PT-LB386",
         "price": "22.490.000",
         "description": "Độ sáng: 4100 ANSI Lumens, Độ tương phản: 16000:1, Độ phân giải: XGA (1024x768), Tuổi thọ đèn: 17000 giờ, Cân nặng: 3 Kg.",
-        "src": "./assets/Projector04.jpg"
+        "src": "./assets/Projector04.jpg",
+        "productDetailUrl":"/Product detail/Projector04.html"
       },
       {
         "category": "Máy chiếu",
         "name": "Máy chiếu EPSON EB-E500 -3300 Ansi",
         "price": "11.990.000",
         "description": "Độ phân giải: XGA (1024×768), Độ sáng: 3300 ANSI lm, Độ tương phản: 15000:1, Tỷ lệ Zoom: 1 – 1.35.",
-        "src": "./assets/Projector05.png"
+        "src": "./assets/Projector05.png",
+        "productDetailUrl":"/Product detail/Projector05.html"
       },
       {
         "category": "Máy chiếu",
         "name": "Máy chiếu thông minh Yaber K2s - Full-HD 1080p, Android, wifi, loa JBL",
         "price": "9.990.000",
         "description": "Máy chiếu thông minh Yaber-JBL, độ sáng cao, âm thanh Dolby, Android Tivi, điều khiển giọng nói",
-        "src": "./assets/Projector06.jpg"
+        "src": "./assets/Projector06.jpg",
+        "productDetailUrl":"/Product detail/Projector06.html"
       },
       {
         "category": "Máy chiếu",
         "name": "Máy in phun màu đa năng Brother DCP T220 (In, Scan, Copy, A4, USB)",
         "price": "9.490.000",
         "description": "Máy chiếu thông minh Yaber-JBL, độ sáng cao, âm thanh Dolby, Android Tivi, điều khiển giọng nói",
-        "src": "./assets/Projector07.jpg"
+        "src": "./assets/Projector07.jpg",
+        "productDetailUrl":"/Product detail/Projector07.html"
       },
       {
         "category": "Máy chiếu",
         "name": "Máy chiếu VIEWSONIC PA503SB (Công Nghệ DLP)- 3800ANSI",
         "price": "9.490.000",
         "description": "Độ sáng 3800 ANSI lumen, độ tương phản 22 000:1, độ phân giải SVGA (800x600), tuổi thọ đèn từ 5.000 - 15.000 giờ, cân nặng 2.2 Kg.",
-        "src": "./assets/Projector08.jpg"
+        "src": "./assets/Projector08.jpg",
+        "productDetailUrl":"/Product detail/Projector08.html"
       },
       {
         "category": "Máy chiếu",
         "name": "Máy chiếu ViewSonic LS740HD",
         "price": "8.290.000",
         "description": "Công nghệ: DLP 0.65”, Độ phân giải: Full HD (1920 x 1080), Độ sáng: 5.000 ANSI lumens, Độ tương phản: 3.000.000:1.",
-        "src": "./assets/Projector09.jpg"
+        "src": "./assets/Projector09.jpg",
+        "productDetailUrl":"/Product detail/Projector09.html"
       },
       {
         "category": "Máy chiếu",
         "name": "Máy chiếu Viewsonic PS600W",
         "price": "8.190.000",
         "description": "Công nghệ DLP, công nghệ xử lý màu sắc SuperColor™, độ sáng 3.500 lumens, độ phân giải WXGA (1280×800), độ tương phản 22.000:1.",
-        "src": "./assets/Projector10.jpg"
+        "src": "./assets/Projector10.jpg",
+        "productDetailUrl":"/Product detail/Projector10.html"
       },
       {
         "category": "Máy chiếu",
         "name": "Máy chiếu Yaber V7 Pro Full-HD Android, Wifi",
         "price": "7.290.000",
         "description": "Máy chiếu Full-HD Android 2023, độ sáng cao, tích hợp Android OS, trình chiếu không dây, Keystone điện tử, kết nối Bluetooth.",
-        "src": "./assets/Projector11.jpg"
+        "src": "./assets/Projector11.jpg",
+        "productDetailUrl":"/Product detail/Projector11.html"
       },
       {
         "category": "Máy chiếu",
         "name": "Máy chiếu Led di động Viewsonic M1 mini Plus(wifi, android, pin 4h, loa JBL)",
         "price": "6.790.000",
         "description": "Chân đế linh hoạt, tấm nắp thay đổi, loa JBL, pin tích hợp, khởi động nhanh, kết nối Wi-Fi/Bluetooth.",
-        "src": "./assets/Projector12.jpg"
+        "src": "./assets/Projector12.jpg",
+        "productDetailUrl":"/Product detail/Projector12.html"
       },
       {
         "category": "Máy chiếu",
         "name": "Máy chiếu Yaber V6 Pro Full-HD 1080p, Android 9, wifi",
         "price": "5.990.000",
         "description": "Bản nâng cấp Android, Full-HD, Basic Smart Engine II, chỉnh vuông hình, tuổi thọ bóng đèn lên đến 100.000 giờ.",
-        "src": "./assets/Projector13.png"
+        "src": "./assets/Projector13.png",
+        "productDetailUrl":"/Product detail/Projector13.html"
       },
       {
         "category": "Máy chiếu",
         "name": "Máy chiếu Yaber V10 Full-HD Android, Wifi",
         "price": "5.190.000",
         "description": "Độ phân giải Full-HD 1080p, Android OS, trình chiếu không dây, Bluetooth 5.1, chỉnh sửa Keystone, tuổi thọ bóng đèn 100.000 giờ.",
-        "src": "./assets/Projector14.jpg"
+        "src": "./assets/Projector14.jpg",
+        "productDetailUrl":"/Product detail/Projector14.html"
       },
       {
         "category": "Máy chiếu",
         "name": "Máy chiếu Vankyo Leisure 495W Full-HD 1080p Wifi",
         "price": "4.490.000",
         "description": "Độ phân giải gốc Full-HD, tương thích 4K, độ sáng 6500 lumens, độ tương phản 10.000:1, kích thước chiếu 46-250 inch, chỉnh vuông hình Keystone, tuổi thọ bóng chiếu 50.000 giờ.",
-        "src": "./assets/Projector15.jpg"
+        "src": "./assets/Projector15.jpg",
+        "productDetailUrl":"/Product detail/Projector15.html"
       },
       {
         "category": "Máy chiếu",
         "name": "Máy chiếu Mini thông minh Yaber L1, Android 9, wifi",
         "price": "2.790.000",
         "description": "Máy chiếu thông minh HD720P, tích hợp Android, âm thanh Hi-Fi, hỗ trợ Full-HD và 4K.",
-        "src": "./assets/Projector16.jpg"
+        "src": "./assets/Projector16.jpg",
+        "productDetailUrl":"/Product detail/Projector16.html"
       }
     ]
   }
