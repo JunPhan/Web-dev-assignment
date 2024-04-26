@@ -40,3 +40,4 @@ function renderProducts(products) {
 
   productListDiv.innerHTML = html;
 }
+
