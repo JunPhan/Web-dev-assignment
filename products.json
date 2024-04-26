@@ -5,56 +5,64 @@
       "name": "Máy in laser đen trắng Canon LBP 243DW (In đảo mặt| A4| A5| USB| LAN| WIFI)",
       "price": "9.100.000",
       "description": " 36 trang/phút (A4), khổ giấy A4/A5, độ phân giải 600 x 600dpi, kết nối USB, mạng LAN, WiFi.",
-      "src": "./assets/Product01.jpg"
+      "src": "./assets/Product01.jpg",
+      "productDetailUrl":"/Product detail/Product01.html"
     },
     {
       "category": "Máy in",
       "name": "Máy in Laser đen trắng đa năng Pantum M6505 (A4 | In | Scan | Copy | USB)",
       "price": "2.550.000",
       "description": "In, Sao chép, Quét, khổ A4, mực Đen trắng, tốc độ 22ppm, độ phân giải 1200x1200dpi.",
-      "src": "./assets/Product02.jpg"
+      "src": "./assets/Product02.jpg",
+      "productDetailUrl":"/Product detail/Product02.html"
     },
     {
       "category": "Máy in",
       "name": "Máy in Laser đen trắng Pantum P3012D (A4 | In đảo mặt | USB)",
       "price": "2.590.000",
       "description": " In đảo mặt, khổ A4, mực Đen trắng, tốc độ 30ppm, độ phân giải 1200x1200dpi.",
-      "src": "./assets/Product03.jpg"
+      "src": "./assets/Product03.jpg",
+      "productDetailUrl":"/Product detail/Product03.html"
     },
     {
       "category": "Máy in",
       "name": "Máy in Laser đen trắng Pantum P2516 (In, A4, USB)",
       "price": "1.850.000",
       "description": "Máy in đen trắng, khổ giấy A4, tốc độ 22ppm, độ phân giải 600x600dpi, bộ nhớ 32MB.",
-      "src": "./assets/Product04.jpg"
+      "src": "./assets/Product04.jpg",
+      "productDetailUrl":"/Product detail/Product04.html"
     },
     {
       "category": "Máy in",
       "name": "Máy in phun màu đa năng HP 580 1F3Y2A (A4 | In | Scan | Copy | USB | WIFI)",
       "price": "4.190.000",
       "description": "Máy in màu All-in-One, khổ giấy A4, độ phân giải 4800x1200 dpi, kết nối USB 2.0.",
-      "src": "./assets/Product05.jpg"
+      "src": "./assets/Product05.jpg",
+      "productDetailUrl":"/Product detail/Product05.html"
     },
     {
       "category": "Máy in",
       "name": "Máy in phun màu đa năng HP 580 1F3Y2A (A4 | In | Scan | Copy | USB | WIFI)",
       "price": "14.650.000",
       "description": " In, sao chép, quét. Độ phân giải 1200x1200 dpi. Khổ giấy A3/A4. Tốc độ 24 trang/phút",
-      "src": "./assets/Product06.jpg"
+      "src": "./assets/Product06.jpg",
+      "productDetailUrl":"/Product detail/Product06.html"
     },
     {
       "category": "Máy in",
       "name": "Máy in phun màu đa năng Brother DCP T220 (In, Scan, Copy, A4, USB)",
       "price": "2.970.000",
       "description": " Máy in phun màu đa năng (Copy, Scan), khổ giấy tối đa A4, độ phân giải 1200x6000 dpi.",
-      "src": "./assets/Product08.jpg"
+      "src": "./assets/Product08.jpg",
+      "productDetailUrl":"/Product detail/Product07.html"
     },
     {
       "category": "Máy in",
       "name": "Máy in phun màu đa năng Canon G3010 (In, Scan, Copy, A4, USB, WIFI)",
       "price": "4.690.000",
       "description": " In phun đa năng A4, độ phân giải cao, kết nối USB 2.0, Wifi, tốc độ in nhanh.",
-      "src": "./assets/Product07.jpg"
+      "src": "./assets/Product07.jpg",
+      "productDetailUrl":"/Product detail/Product08.html"
     },
     {
       "category": "Máy in",
